@@ -1,0 +1,20 @@
+Juan Perez, fractura de pierna, C
+Maria Ramirez, apendicitis, A
+Lorenzo Toledo, chikungunya, E
+Carmen Sarmientos, dolores de parto, B
+Carlos López, quemadura leve, B
+Ana González, dolor de cabeza intenso, A
+Javier Rodriguez, desmayo, C
+Sofia Martínez, fiebre alta, A
+Diego Hernández, herida cortante en la mano, B
+Laura García, dolor abdominal, A
+Manuel Jiménez, dificultad para respirar, A
+Valentina Torres, vómitos persistentes, B
+Martín Suarez, lesión en la espalda, C
+Julia Flores, picadura de insecto, E
+Alejandro Castro, dolor de garganta, B
+Natalia Diaz, fractura de brazo, C
+Mateo Ortega, mareos y debilidad, A
+Carolina Molina, dolor en el pecho, A
+Daniel Ramírez, cortadura en el pie, B
+Paula Gómez, alergia cutánea, E
